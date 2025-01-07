@@ -141,6 +141,6 @@ jobs:
 Then commit the workflow and watch the actions.
 If it is deployed successfully it shows green tick.
 
-Then, access the node-app with: - http://YOUR_VM_IP_EXTERNAL_IP:3000
+Then, access the node-app with: - http://YOUR_VM_IP__IP:3000
 
 
